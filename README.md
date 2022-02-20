@@ -6,6 +6,10 @@ Duch is a UCI Chess Engine written in Java. Version 0.1.0 is ranked around 2000 
 
 In order to play with Duch, you need a chess GUI that supports UCI protocol like **cute-chess** or **Arena**
 
+## Motivation
+
+My goal was to learn about chess programming and create an engine that beats me in chess. Now, it beats me every time.
+
 ## :mag_right: Features
 
 - Bitboards
