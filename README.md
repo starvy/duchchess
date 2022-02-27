@@ -1,4 +1,7 @@
 [![Java CI with Maven](https://github.com/starvy/duchchess/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/starvy/duchchess/actions/workflows/maven.yml)
+![](https://img.shields.io/tokei/lines/github/starvy/duchchess)
+![](https://img.shields.io/github/license/starvy/duchchess)
+![](https://img.shields.io/github/v/release/starvy/duchchess)
 # Duch Chess Engine
 
 Duch is a UCI Chess Engine written in Java. Version 0.1.0 is ranked around 2000 ELO
