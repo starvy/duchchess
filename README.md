@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/v/release/starvy/duchchess)
 # Duch Chess Engine
 
-Duch is a UCI Chess Engine written in Java. Version 0.1.0 is ranked around 2000 ELO
+Duch is a UCI Chess Engine written in Java. Version 1.0.0 is ranked around 2000 ELO
 
 ## :computer_mouse: Play it
 
@@ -50,3 +50,9 @@ mvn package duch
 ## :technologist: Author
 
 - Sebastian Pravda
+
+## Contributing
+Any contribution or help is welcomed.
+
+### Please note
+This is just a hobby project. There might be some bugs in the code.
