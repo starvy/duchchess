@@ -36,7 +36,7 @@ public class Uci {
                 System.out.println("readyok");
                 break;
             case "uci":
-                System.out.println("uci id duch 0.0.1");
+                System.out.println("uci id duch 1.0.0");
                 System.out.println("uci author Sebastian Pravda");
                 System.out.println("uciok");
                 break;
