@@ -44,7 +44,7 @@ My goal was to learn about chess programming and create an engine that beats me 
 Duch is compiled using Maven
 
 ```shell
-mvn package duch
+mvn package
 ```
 
 ## :technologist: Author
